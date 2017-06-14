@@ -4,7 +4,7 @@ This is a mini Pride celebration I made with a pen to practice and also commemor
 
 Source of the pen: https://codepen.io/vincentorback/pen/zxRyzj
 
-Original Pen info
+## Original Pen info
 
 A Pen created at CodePen.io. You can find this one at http://codepen.io/vincentorback/pen/zxRyzj.
 
