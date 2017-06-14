@@ -14,7 +14,7 @@ body {
 section {
   position: relative;
   text-align: center;
-  min-height: 300px;
+  min-height: 700px;
   max-height: 700px;
   height: 80%;
 }
@@ -27,10 +27,8 @@ section {
 
 
 
-
-
 body {
-  font-family: "Avenir Next", Helvetica, sans-serif;
+  font-family: 'San Francisco',"Avenir Next", Helvetica, sans-serif;
   font-weight: normal;
   font-size: 100%;
 }
@@ -38,22 +36,30 @@ body {
 .red {
   background: #FF4136;
 }
-.green {
-  background: #2ECC40;
+
+.green{
+  background: #008026;
+}
+
+.yellow {
+  background: #ffe500;
 }
 .blue {
   background: #0074D9;
 }
 .orange {
-  background: rebeccapurple;
+  background: #ffa500;
+}
+
+.purple {
+  background: purple;
 }
 
 h1 {
   margin: 0;
   position: absolute;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
   width: 100%;
   font-size: 80px;
   letter-spacing: 5px;
